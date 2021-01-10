@@ -1,0 +1,20 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+<<<<<<< HEAD
+  "keywords": [],
+  "author": "",
+=======
+  "author": "Jeffrey Reese",
+>>>>>>> 50370da4744ce8a40846abb1d0b3e82d39ee6f9a
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
